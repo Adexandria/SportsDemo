@@ -11,7 +11,7 @@ namespace Store.Models
     public class Cart
     {
         public List<Cartlist> Carts { get; set; } = new List<Cartlist>();
-        public void Product(Details details,int quantity)
+        public virtual void Product(Details details,int quantity)
         {
            Cartlist cartlist = Carts.Where(r => r.Product.ProductId == details.ProductId).FirstOrDefault();
             if(cartlist == null)
@@ -24,15 +24,15 @@ namespace Store.Models
                 cartlist.Quantity += quantity;
             }
         }
-        public void Remove(Details details)
+        public virtual void Remove(Details details)
         {
             Carts.RemoveAll(r => r.Product.ProductId == details.ProductId);
         }
-        public decimal Sum()
+        public virtual decimal Sum()
         {
             return Carts.Sum(r => r.Product.Price * r.Quantity);
         }
-        public void Clear()
+        public virtual void Clear()
         {
             Carts.Clear();
         }

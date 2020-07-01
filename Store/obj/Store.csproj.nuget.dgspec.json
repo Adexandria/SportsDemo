@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP 650\\source\\repos\\Store\\Store\\Store.csproj": {}
+    "C:\\Users\\HP 650\\Documents\\DEmo\\SportsDemo\\Store\\Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP 650\\source\\repos\\Store\\Store\\Store.csproj": {
+    "C:\\Users\\HP 650\\Documents\\DEmo\\SportsDemo\\Store\\Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP 650\\source\\repos\\Store\\Store\\Store.csproj",
+        "projectUniqueName": "C:\\Users\\HP 650\\Documents\\DEmo\\SportsDemo\\Store\\Store.csproj",
         "projectName": "Store",
-        "projectPath": "C:\\Users\\HP 650\\source\\repos\\Store\\Store\\Store.csproj",
+        "projectPath": "C:\\Users\\HP 650\\Documents\\DEmo\\SportsDemo\\Store\\Store.csproj",
         "packagesPath": "C:\\Users\\HP 650\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP 650\\source\\repos\\Store\\Store\\obj\\",
+        "outputPath": "C:\\Users\\HP 650\\Documents\\DEmo\\SportsDemo\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

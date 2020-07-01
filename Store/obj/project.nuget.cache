@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxe2dvponJYBCnRSu85lAoryOVP2y9LO8CEh+k0CI6dwj85ETr8FjjuXjmEX+1yhjYfTGjEn7CaVaGLrWxDSxA==",
+  "dgSpecHash": "2rK+gd0qybPj8TrXHxaF7aeXltHNrG0x4/zbI+NL5jWRCrFDhh5Pz06CqSow0FVjW6j8w+hjduKaADW3rhXvrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP 650\\source\\repos\\Store\\Store\\Store.csproj",
+  "projectFilePath": "C:\\Users\\HP 650\\Documents\\DEmo\\SportsDemo\\Store\\Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP 650\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\HP 650\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
